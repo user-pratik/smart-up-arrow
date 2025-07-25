@@ -118,9 +118,14 @@ smart-up-arrow/
 
 ---
 
-## ❤️ Author
+## Author
 
 Made by [Pratik Anand](https://github.com/user-pratik)
 
+## Contact @
+
+Gmail -- pratik.csdev@gmail.com
+LinkedIN -- https://www.linkedin.com/in/introducingpratikanand/
+Portfolio -- https://user-pratik.github.io/portfolio
 ---
 
