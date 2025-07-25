@@ -1,0 +1,16 @@
+#!/bin/bash
+
+echo "Installing Smart Up Arrow..."
+
+mkdir -p ~/.smart-up-arrow
+cp /etc/smart-up-arrow/.inputrc ~/.smart-up-arrow/.inputrc
+cp /etc/smart-up-arrow/zsh_bindings.zsh ~/.smart-up-arrow/zsh_bindings.zsh
+
+if [[ $SHELL == *"zsh"* ]]; then
+  grep -q "up-line-or-beginning-search" ~/.zshrc || cat ~/.smart-up-arrow/zsh_bindings.zsh >> ~/.zshrc
+else
+  grep -q "history-search-backward" ~/.inputrc || cat ~/.smart-up-arrow/.inputrc >> ~/.inputrc
+fi
+
+echo "✅ Smart Up Arrow installed. Restart your terminal or source your shell config."
+

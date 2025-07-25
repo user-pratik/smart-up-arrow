@@ -1,0 +1,9 @@
+Package: smart-up-arrow
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: bash | zsh
+Maintainer: Pratik Anand <your-email@example.com>
+Description: Enhances shell up-arrow to contextually search command history by prefix.
+
