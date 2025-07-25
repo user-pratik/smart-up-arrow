@@ -31,7 +31,7 @@ You can install this on:
 ### 1. Clone the repo and build
 
 ```bash
-git clone https://github.com/yourusername/smart-up-arrow.git
+git clone https://github.com/user-pratik/smart-up-arrow.git
 cd smart-up-arrow
 ./build.sh
 ```
@@ -70,7 +70,7 @@ This automatically:
 ### ✅ Install
 
 ```powershell
-git clone https://github.com/yourusername/smart-up-arrow.git
+git clone https://github.com/user-pratik/smart-up-arrow.git
 cd smart-up-arrow\windows
 .\install.ps1
 ```
