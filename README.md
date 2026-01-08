@@ -124,7 +124,7 @@ Made by [Pratik Anand](https://github.com/user-pratik)
 
 ## 📬 Contact
 
-- 📧 Gmail: [pratik.csdev@gmail.com](mailto:pratik.csdev@gmail.com)  
+- 📧 Gmail: [pratikanand.tech@gmail.com](mailto:pratikanand.tech@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/introducingpratikanand](https://www.linkedin.com/in/introducingpratikanand/)  
 - 🌐 Portfolio: [user-pratik.github.io/portfolio](https://user-pratik.github.io/portfolio)
 
